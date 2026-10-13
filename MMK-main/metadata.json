@@ -1,0 +1,6 @@
+{
+  "name": "MMK — Main Aur Mera Kissan",
+  "description": "Digital agriculture platform connecting farmers and agricultural stakeholders with modern climate intelligence, smart farming AI, and sustainable solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
